@@ -11,7 +11,7 @@ Nesta aula você vai aprender de forma prática como implementar esse padrão pa
 ![IteratorExample](https://user-images.githubusercontent.com/42419543/202033408-28f7b64f-1caa-4334-b0fd-8f04516e0a8d.png)
 
 
-## Slides
+## [Slides](https://docs.google.com/presentation/d/16xrUrsOJ3LjpPCqILvlyV_uu3716WxRzEp8uI2_Kg78/edit?usp=sharing)
 
 ## Expert
 | [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/ananeridev) |
