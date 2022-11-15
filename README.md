@@ -6,8 +6,9 @@ Nesta aula você vai aprender de forma prática como implementar esse padrão pa
 
 
 
-## Diagramas da aula
+## Diagramas da aula sobre o case de bot redes sociais
 
+![IteratorExample](https://user-images.githubusercontent.com/42419543/202033408-28f7b64f-1caa-4334-b0fd-8f04516e0a8d.png)
 
 
 ## Slides
